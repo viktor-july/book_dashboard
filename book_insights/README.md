@@ -2,6 +2,8 @@
 
 A data visualization web app that presents an interactive dashboard for exploring book pricing, ratings, genres, and stock availability. Built with **Dash**, **Plotly**, and **Flask**, and powered by a cleaned dataset from a companion **book scraper project**.
 
+visit: https://book-dashboard-jchp.onrender.com/
+
 ---
 
 ## 📦 Features
